@@ -52,19 +52,19 @@ Isikan data relevan sesuai dengan tabel db yang telah dibuat!
 
 ***
 ## Screenshots 2 ##
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/master/public/assets/images/screenshots/2.png)
+![alt text](https://github.com/hendraryadi57/Dumbways/blob/master/img/2.png)
 <br />
 <br />
 
 ***
 ## Screenshots 3 ##
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/master/public/assets/images/screenshots/2.png)
+![alt text](https://github.com/hendraryadi57/Dumbways/blob/master/img/3.png)
 <br />
 <br />
 
 ***
 ## Screenshots 4 ##
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/master/public/assets/images/screenshots/2.png)
+![alt text](https://github.com/hendraryadi57/Dumbways/blob/master/img/dumb.png)
 <br />
 <br />
 
