@@ -46,7 +46,7 @@ Isikan data relevan sesuai dengan tabel db yang telah dibuat!
 
 
 ## Screenshots 1 ##
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/master/public/assets/images/screenshots/1.png)
+![alt text](https://github.com/hendraryadi57/Dumbways/blob/master/img/1.png)
 <br />
 <br />
 
