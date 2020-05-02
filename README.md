@@ -26,21 +26,22 @@ Buatlah function untuk mencetak gambar seperti dibawah ini, yang mempunyai sebua
 
 ## Soal 4 ##
 Sebuah web info music diketahui mempunyai 3  tabel sebagai berikut:
-
-Genre
-id
-name
-Singers
-id
-name
-Music
-id
-title
-durasi
-id_genre
-Id_singer
-photo
-deskripsi
+<dl>
+<dt>Genre</dt>
+<dd>Id</dd>
+<dd>Name</dd>
+<dt>Singers</dt>
+<dd>Id</dd>
+<dd>Name</dd>
+<dt>Music</dt>
+<dd>Id</dd>
+<dd>Name</dd>
+<dd>Durasi</dd>
+<dd>Id_genre</dd>
+<dd>Id_singer</dd>
+<dd>Photo</dd>
+<dd>Deskripsi</dd>
+</dl>
 Isikan data relevan sesuai dengan tabel db yang telah dibuat!
 
 
