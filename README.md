@@ -56,7 +56,7 @@ Isikan data relevan sesuai dengan tabel db yang telah dibuat!
 <br />
 
 ***
-## Screenshots 23 ##
+## Screenshots 3 ##
 ![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/master/public/assets/images/screenshots/2.png)
 <br />
 <br />
